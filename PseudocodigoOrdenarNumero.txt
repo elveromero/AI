@@ -1,0 +1,24 @@
+INICIO
+
+    Pedir el primer número y guardarlo en A
+    Pedir el segundo número y guardarlo en B
+    Pedir el tercer número y guardarlo en C
+
+    // 1. Comparamos el primero con el segundo
+    Si A es mayor que B entonces
+        Intercambiar el valor de A con el de B
+    Fin Si
+
+    // 2. Comparamos el primero con el tercero
+    Si A es mayor que C entonces
+        Intercambiar el valor de A con el de C
+    Fin Si
+
+    // 3. Comparamos el segundo con el tercero
+    Si B es mayor que C entonces
+        Intercambiar el valor de B con el de C
+    Fin Si
+
+    Mostrar en pantalla: "El orden es: ", A, B, C
+
+FIN
